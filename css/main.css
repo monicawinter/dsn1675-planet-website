@@ -54,6 +54,15 @@ ul {
   display: block;
 }
 
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  color: purple;
+}
+
 @media only screen and (min-width: 24em) {
 
 nav {
@@ -78,6 +87,10 @@ h3 {
   text-align: left;
   padding-left: 0em;
   padding-top: 1em;
+}
+
+.vp {
+  padding-right: 1em;
 }
 
 }
