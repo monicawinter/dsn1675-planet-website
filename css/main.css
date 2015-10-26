@@ -28,7 +28,7 @@ header {
 
 .venus {
   margin: 0;
-  padding: 1em;
+  padding: 0.5em 1em 1em 1em;
   text-align: center;
 }
 
@@ -36,6 +36,10 @@ h3 {
   margin: 0;
   padding: 0em 0em 1em 0em;
   text-align: center;
+}
+
+header nav li {
+  padding: 0.5em;
 }
 
 ul {
@@ -61,6 +65,29 @@ a {
 
 a:hover {
   color: purple;
+}
+
+.prefooter {
+  background-color: grey;
+  text-align: left;
+}
+
+.op {
+  text-align: left;
+}
+
+dd {
+  margin: 0em 0em 1em 0em;
+
+}
+
+footer {
+  background-color: lightgrey;
+  padding: 1em 1em 0.5em 1em;
+}
+
+.footer{
+  margin: 0;
 }
 
 @media only screen and (min-width: 24em) {
