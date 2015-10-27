@@ -141,6 +141,15 @@ header {
   text-align: center;
 }
 
+
+.block {
+  background-color: #2e80d9;
+  color: white;
+  padding: 0.75em 0.5em 0.75em 0.5em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
 .grey2 {
   background-color: #eeeeee;
 }
@@ -151,7 +160,7 @@ h3 {
 }
 
 header nav li {
-  padding-left: 0.5em;
+  padding-left: 2em;
 }
 
 ul {
@@ -173,12 +182,6 @@ ul {
 a {
   text-decoration: none;
   color: #2e80d9;
-}
-
-.top a:hover {
-  color: white;
-  background-color: #2e80d9;
-  padding: 0.75em;
 }
 
 .moonimg {
