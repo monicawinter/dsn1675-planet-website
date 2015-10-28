@@ -65,7 +65,6 @@ header {
   text-align: center;
 }
 
-
 .block {
   background-color: #2e80d9;
   color: white;
@@ -81,6 +80,11 @@ header {
 h3 {
   margin: 0;
   text-align: center;
+}
+
+.probes {
+  text-align: left;
+  padding: 0em;
 }
 
 header nav li {
