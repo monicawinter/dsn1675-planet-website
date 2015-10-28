@@ -154,6 +154,11 @@ nav {
   text-align: center;
 }
 
+header nav li {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
 li {
   display: inline-block;
 }
